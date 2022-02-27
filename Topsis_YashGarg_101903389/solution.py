@@ -2,6 +2,10 @@ import pandas as pd
 import os
 import sys
 
+name = "Topsis_Tewatia/Topsis_Tewatia"
+__version__ = "1.0.4"
+__author__ = 'Yash Kumar Tewatia'
+__credits__ = 'Thapar Institute of Engineering and Technology'
 
 
 def main():
