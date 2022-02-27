@@ -7,12 +7,11 @@ setup(
   description = 'Topsis File',   # Give a short description about your library
   author = 'Yash Garg',                   # Type in your name
   author_email = 'ygarg_be19@thapar.edu',      # Type in your E-Mail
-  url = 'https://github.com/user/reponame',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/user/reponame/archive/v_01.tar.gz',    # I explain this later on
-  keywords = ['SOME', 'MEANINGFULL', 'KEYWORDS'],   # Keywords that define your package best
+  url = 'https://github.com/yashgarg3283/Topsis_YashGarg_101903389',   # Provide either the link to your github or to your website
+  download_url = 'https://github.com/yashgarg3283/Topsis_YashGarg_101903389/archive/refs/tags/0.1.tar.gz',    # I explain this later on
+  keywords = ['Topsis','Yash'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
-          'validators',
-          'beautifulsoup4',
+          'pandas',
       ],
   classifiers=[
     'Development Status :: 3 - Alpha',      # Chose either "3 - Alpha", "4 - Beta" or "5 - Production/Stable" as the current state of your package
